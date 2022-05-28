@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1645584076 source:d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\main.cpp
+	<iostream>
+	"WorkerManager.h"
+	"Worker.h"
+	"Employee.h"
+	"Manager.h"
+	"Boss.h"
+
+1645587354 source:d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\src\workermanager.cpp
+	"WorkerManager.h"
+
+1645586786 d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\include\workermanager.h
+	<iostream>
+	<fstream>
+	"Worker.h"
+	"Employee.h"
+	"Manager.h"
+	"Boss.h"
+
+1645494798 source:d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\src\employee.cpp
+	"Employee.h"
+
+1645494999 d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\include\employee.h
+	"Worker.h"
+	<iostream>
+
+1645495008 d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\include\worker.h
+	<iostream>
+
+1645502460 d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\include\manager.h
+	<iostream>
+	"worker.h"
+
+1645502033 d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\include\boss.h
+	<iostream>
+	"Worker.h"
+
+1645502399 source:d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\src\boss.cpp
+	"Boss.h"
+
+1645502455 source:d:\courses\2.编程语言课程\5.面向对象程序设计\1.itcast\src\职工管理系统\src\manager.cpp
+	"Manager.h"
+
